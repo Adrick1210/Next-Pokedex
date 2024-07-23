@@ -13,7 +13,7 @@ This Pokedex app includes data of pokemon from different regions from the franch
 
 ### Mockup
 #### Index
-![Index](./public/images/Home.png)
+![Index](public/images/Home.png)
 
 #### Show
-![Show](./public/images/Show.png)
+![Show](public/images/Show.png)
